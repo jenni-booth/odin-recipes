@@ -8,3 +8,13 @@ h1 {
     font-size: 50px;
 }
 
+.gif {
+    text-align: center;
+    /*Why can't I align photos?*/
+}
+
+.recipe-items {
+    text-align: left;
+    /*why don't the numbers for the list center?*/
+    font-size: 20px;
+}
